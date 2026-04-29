@@ -13,7 +13,7 @@ SQL (SQLiteOnline) · Excel
 - Customer 6708-DPYTF had the highest overdue amount at $1,881
 
 ## Dashboard
-![Dashboard](dashboard)
+![Dashboard](dashboard.png)
 
 ## Files
 | File | Description |
